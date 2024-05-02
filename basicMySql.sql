@@ -13,6 +13,7 @@ insert into Customers
  (3,'Mohan','Bijnor','india','246787'),
  (4,'Priya','noida','india','201301'),
  (5,'Swati','Gzb','india','201301');
+
 desc Customers;
 select * from Customers;
 select distinct City,Country from Customers;
